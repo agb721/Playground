@@ -1,10 +1,10 @@
 # Extra Mile - a MIT Reality Hack Project
 
 ## Team
-Team Name: Extra Mile
+Team Name: *Extra Mile*
 Members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
-## Problem we're solving
+## Problem We're Solving
 - X% of people give up on their workout plans within Y time, primarily due to a lack of sustained enjoyment during physical exercise (check/find source)
 - It can be difficult to identify the right balance between challenge and enjoyment, especially for less experienced runners and runners with special conditions (disabilities, injuries etc.)
 - …
