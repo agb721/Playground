@@ -1,13 +1,13 @@
-# MIT Reality Hack Project - Extra Mile
+# Extra Mile - a MIT Reality Hack Project
 
 ## Team
 Team Name: Extra Mile
 Members: Michael Chen, Andreas Greiler-Basaldua, Tim Miller, Paris Nikitidis
 
 ## Problem we're solving
-X% of people give up on their workout plans within Y time, primarily due to a lack of sustained enjoyment during physical exercise (check/find source)
-It can be difficult to identify the right balance between challenge and enjoyment, especially for less experienced runners and runners with special conditions (disabilities, injuries etc.)
-…
+- X% of people give up on their workout plans within Y time, primarily due to a lack of sustained enjoyment during physical exercise (check/find source)
+- It can be difficult to identify the right balance between challenge and enjoyment, especially for less experienced runners and runners with special conditions (disabilities, injuries etc.)
+- …
 
 *Extra Mile* leverages Arctop's neural interface technology and AR immersion to make running more fun and effective across 3 levers:
 - **Gamification:** …
@@ -16,8 +16,6 @@ It can be difficult to identify the right balance between challenge and enjoymen
 
 ## Target user
 *Caveat: the current size and weight of AR equipment isn't ideal for use during intense physical activity. This project serves as a proof of concept for technological opportunity space for nascent technologies.*
-
-
 
 ## Video
 *link*
